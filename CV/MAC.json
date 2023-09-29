@@ -1,0 +1,288 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Róman",
+      "surnames": "Demchuk",
+      "title": "Junior Fullstack Developer / Building engineer",
+      "description": "I'm a Front-end and Back-end Developer with a background in Building Engineering.\n\nI enjoy working with TypeScript, JavaScript, React and Redux. I also dig into styling practices with CSS, BEM (Block Element Modifier), SASS, and Styled Components to bring to life designs that were first created as prototypes on Figma. \n\nAs for the Back-end, I have knowledge about API development and RESTful principles. I have experience with Node.js to build server-side applications with Mongoose and MongoDB databases.\n\nTo ensure code quality, I employ ESLint, SonarCloud, Jest, and Cypress for unit and integration testing. I also like to follow the principles of Test-driven development (TDD) \n\nFor version control, I am proficient in using Git, GitHub, and GitHub Actions.\n\n\nFull Stack Developer | TypeScript | JavaScript | React | Redux | Node.js | Express | Testing | Sass",
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJ5TCOcRaYpBIRCmZHTz37sEQ)",
+        "country": "España",
+        "region": "Cataluña",
+        "municipality": "Barcelona"
+      }
+    }
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Junoverse"
+        },
+        "roles": [
+          {
+            "name": "Junior Fullstack Developer",
+            "startDate": "2023-07-01"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "All About Berlin"
+        },
+        "roles": [
+          {
+            "name": "Web Developer",
+            "startDate": "2022-06-01",
+            "finishDate": "2023-07-31",
+            "challenges": [
+              {
+                "description": "Skills: Jest · Webpack · SASS · MongoDB · Redux.js · Bootstrap · React.js · HTML · JavaScript · German · Node.js · HTML5 · Git · Cascading Style Sheets (CSS) · English"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Otter Ferry Seafish"
+        },
+        "roles": [
+          {
+            "name": "Ingeniero de construcción",
+            "startDate": "2020-07-01",
+            "finishDate": "2022-03-31",
+            "challenges": [
+              {
+                "description": "Projectes de construcció i d'instal·lacions de naus de piscifactoria. Dimensionament de sistemes de tractament de l'aigua."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "GFE Gesellschaft für Energieeffizienz mbH"
+        },
+        "roles": [
+          {
+            "name": "Ingeniero de construcción",
+            "startDate": "2017-08-01",
+            "finishDate": "2020-07-31",
+            "challenges": [
+              {
+                "description": "Elaboració de projecte d'instal·lacions de naus industrials, vivendes i edificis públics. Sistemes de calefacció, ventilal·lació i aigua.\nPressupostos, seguiment i control d'obres."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "IGL Ingenieurgesellschaft Lang"
+        },
+        "roles": [
+          {
+            "name": "Ingeniero de construcción",
+            "startDate": "2016-01-01",
+            "finishDate": "2017-07-31",
+            "challenges": [
+              {
+                "description": "Elaboració de projecte d'instal·lacions de vivendes. Sistemes de calefacció, i aigua."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "BAPORO SL"
+        },
+        "roles": [
+          {
+            "name": "Coordinador de logística",
+            "startDate": "2014-01-01",
+            "finishDate": "2015-12-31",
+            "challenges": [
+              {
+                "description": "Coordinació de viatges i logística per esdeveniments d'autoesport. Interpretació del català - anglès - rus."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Vilar Rural de Sant Hilari Sacalm"
+        },
+        "roles": [
+          {
+            "name": "Recepcionista",
+            "startDate": "2008-06-01",
+            "finishDate": "2013-12-31",
+            "challenges": [
+              {
+                "description": "Recepcionista d'hotel. Reserves i atenció als clients."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "CA",
+        "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "DE",
+        "level": "Professional working proficiency"
+      },
+      {
+        "name": "EN",
+        "level": "Full professional proficiency"
+      },
+      {
+        "name": "ES",
+        "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "UK",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jest",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NextJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Sass",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Styled Components",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TestingLibrary",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Vue",
+          "type": "technology"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://www.linkedin.com/in/romandemchuk/",
+          "type": "linkedin"
+        }
+      ],
+      "contactMails": [
+        "roman.demchuk@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "635575221",
+          "countryCode": "+34"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "NextJS",
+          "type": "technology"
+        },
+        {
+          "name": "React",
+          "type": "technology"
+        },
+        {
+          "name": "TypeScript",
+          "type": "technology"
+        },
+        {
+          "name": "Vue",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Backend Developer",
+        "Frontend Developer",
+        "Full-stack Developer"
+      ]
+    },
+    "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "Jest",
+        "type": "technology"
+      },
+      {
+        "name": "NextJS",
+        "type": "technology"
+      },
+      {
+        "name": "React",
+        "type": "technology"
+      },
+      {
+        "name": "Sass",
+        "type": "technology"
+      },
+      {
+        "name": "TypeScript",
+        "type": "technology"
+      }
+    ],
+    "desiredJobDescription": "# Un día de trabajo ideal:\n\n08:00 Escoger una tarea del backlog para hacer. Mirar qué componentes hechos se pueden aprovechar.\n\n09:00 Escribir código que toque para un primer esbozo.\n\n10:00 Reunión Daily con el equipo en Meet. Escuchar lo que han hecho y harán los demás. Explicar lo que hice ayer y comentar la terea que he escogido hoy. \n\n11:00 Mejorar el código escrito a las 9 de la mañana. Darme cuenta que todo funciona a la primera ( no olvidemos que es un **día ideal**) y ponerme a darle estilos al componente.\n\n12:00 Hacer test unitario del componente. Tener en cuenta los *corner cases* para poder testearlo entero.\n\n13:00 Comida\n\n14:00 Gracias al test, darme cuenta que el componente no funciona correctamente. Irme al proyecto del back para ver qué falta. \n\n15:00 Crear el endpoint que faltaba para que el código en front funcione correctamente. Consultar con los compañeros qué les parece esta solución.\n\n16:00 Testear que todo sea ok. Preguntar al equipo si está todo en orden, si hay algo con qué pueda ayudar.\n\n17:00 Cerrar el portátil y disftutar de la tarde en familia."
+  }
+}
